@@ -1,1 +1,1 @@
-# e23-co5430-AI-Assisted-Hand-Rehabilitation-Exercise-Monitoring
+# e23-co5430-Surface defect detection
