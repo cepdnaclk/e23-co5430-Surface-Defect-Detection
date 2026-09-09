@@ -1,0 +1,2 @@
+model,test_accuracy,macro_precision,macro_recall,macro_f1,best_validation_accuracy,epochs,training_time_seconds
+Baseline CNN,0.9444444444444444,0.9445355968450433,0.9444444444444445,0.9442188648710387,0.9555555555555556,5,455.5625636577606
