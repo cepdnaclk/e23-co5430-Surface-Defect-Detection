@@ -1,0 +1,5 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Correct Predictions,Incorrect Predictions
+Baseline CNN,94.44,94.45,94.44,94.42,255,15
+MobileNetV2 Frozen,99.63,99.64,99.63,99.63,269,1
+MobileNetV2 Fine-Tuned,100.0,100.0,100.0,100.0,270,0
+ResNet18,98.15,98.17,98.15,98.15,265,5
