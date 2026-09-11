@@ -230,21 +230,6 @@ Download or access the required large files from:
 
 **[Project Google Drive](https://drive.google.com/drive/u/0/folders/1JdUyW7HmGCTe1weABU3nR1dOGsFM1_Ag)**
 
-### 4. Run the notebooks
-
-The main experimental notebooks are:
-
-```text
-01_dataset_preparation.ipynb
-        ↓
-02_baseline_cnn.ipynb
-        ↓
-03_mobilenetv2.ipynb
-        ↓
-04_resnet18.ipynb
-        ↓
-05_final_evaluation.ipynb
-
 ---
 
 ## 👥 Team
